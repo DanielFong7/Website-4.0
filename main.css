@@ -1,0 +1,27 @@
+.navbar-brand {
+    color: azure;
+}
+
+.btn {
+    color: azure;
+}
+
+.footer-wrapper {
+height: 140px;
+color: black;
+background: #07090a;
+color: white;
+padding: 40px;
+flex-shrink: 0;
+}
+
+.footer-item {
+    color: azure;
+}
+
+.container {
+    min-height: calc(100vh - 70px);
+    padding: 40px 40px 0 40px;
+    flex: 1 0 auto;
+
+}
